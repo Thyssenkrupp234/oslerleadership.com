@@ -1,0 +1,30 @@
+/*
+make the #macos buttom purple and look cool, and make the #windows button blue and look cool. make all the buttons fade when you hover over them.
+*/
+
+/* #macos */
+#macos {
+  background-color: #ff00ff;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 20px;
+  font-family: 'Arial', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  transition: all 0.5s ease;
+}
+/* #windows */
+#windows {
+  background-color: #00ffff;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 20px;
+  font-family: 'Arial', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  transition: all 0.5s ease;
+}
