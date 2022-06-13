@@ -29,7 +29,17 @@ make the #macos buttom purple and look cool, and make the #windows button blue a
   transition: all 0.5s ease;
 }
 
+/* add a hover effect to the buttons */
+#macos:hover {
+  background-color: #ffffff;
+  color: #ff00ff;
+}
+#windows:hover {
+  background-color: #ffffff;
+  color: #00ffff;
+}
+
 /* add the raleway font to the body */
 body {
-  font-family: 'raleway'
+  font-family: 'raleway', sans-serif;
 }
