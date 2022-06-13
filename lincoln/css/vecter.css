@@ -28,3 +28,8 @@ make the #macos buttom purple and look cool, and make the #windows button blue a
   text-align: center;
   transition: all 0.5s ease;
 }
+
+/* add the raleway font to the body */
+body {
+  font-family: 'raleway'
+}
