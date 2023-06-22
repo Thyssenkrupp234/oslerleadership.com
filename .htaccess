@@ -14,5 +14,5 @@ RewriteRule ^ %{REQUEST_URI}.html [NC,L]
 RewriteEngine On
 RewriteCond %{REMOTE_ADDR} !^123.123.123.123
 RewriteCond %{REQUEST_URI} !^/maintenance.html$
-RewriteRule ^(.*)$ https://domain.com/maintenance.html [L]
+RewriteRule ^(.*)$ https://oslerleadership.com/maintenance.html [L]
 </IfModule>
